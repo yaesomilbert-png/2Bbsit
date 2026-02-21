@@ -1,1 +1,1 @@
-hello git basics
+hello GIT
